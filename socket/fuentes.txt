@@ -1,0 +1,2 @@
+socketserver — A framework for network servers: https://docs.python.org/3/library/socketserver.html
+Socket Programming in Python (Guide): https://realpython.com/python-sockets/
